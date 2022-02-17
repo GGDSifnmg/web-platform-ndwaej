@@ -1,5 +1,11 @@
 html, body {
   background-color: green;
-  font-family: ;
-
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  fonte-size: 20px;
 } 
+
+h1 {
+color:aqua;
+background-color: rgb(176, 226, 176);
+
+}
